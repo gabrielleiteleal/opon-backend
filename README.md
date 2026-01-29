@@ -14,6 +14,10 @@
 O backend é responsável por **serivr os dados, aplicar regras de negócios, autenticar e gerenciar transações de serviços**, apoiando um frontend ou aplicativo consumirem a API.
 
 ---
+<img src="https://github.com/gabrielleiteleal/opon-backend/blob/main/src/main/resources/static/images/preview-opon.png" alt="" width="100%">
+
+---
+
 
 ## 📌 Visão Geral do Projeto
 
